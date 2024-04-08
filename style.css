@@ -56,7 +56,10 @@ body{
     margin: auto;
     width: 15;
     height: 15px
-    
+}
+.icono:hover{
+    width: 20px;
+    height: 20px;
 }
 #name{
     font-weight: bold;
